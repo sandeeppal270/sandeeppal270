@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Laravel-purple?logo=laravel)
 ![](https://img.shields.io/badge/CodeIgniter-green?logo=codeigniter)
 ![](https://img.shields.io/badge/MySQL-brown?logo=mysql)
-![](https://img.shields.io/badge/CodeIgniter-lightgreen?logo=postgresql)
+![](https://img.shields.io/badge/PostgreSQL-lightgreen?logo=postgresql)
 
 ### Tools
 
