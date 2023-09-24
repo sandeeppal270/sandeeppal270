@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/Git-skyblue?logo=git)
 ![](https://img.shields.io/badge/GitHub-green?logo=github)
 
-### My Pround Works 
+### My Proud Works 
 
 ![](https://img.shields.io/badge/NMVC-green)
 
