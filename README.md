@@ -1,4 +1,4 @@
-# Hi there ,
+# Hi there 👋,
 ## Welcome to my GitHub repo
 
 ![projects 13](https://img.shields.io/badge/projects-20-green)
