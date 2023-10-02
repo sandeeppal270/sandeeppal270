@@ -4,7 +4,7 @@
 ![projects 13](https://img.shields.io/badge/projects-20-green)
 ![repositaries 30](https://img.shields.io/badge/repositories-30-green)
 
-### Languages
+### Languages and Tools
 
 
 ![](https://img.shields.io/badge/HTML5-green?logo=html5)
@@ -18,11 +18,12 @@
 ![](https://img.shields.io/badge/MySQL-brown?logo=mysql)
 ![](https://img.shields.io/badge/PostgreSQL-lightgreen?logo=postgresql)
 
-### Tools
+### 
 
 ![](https://img.shields.io/badge/Git-skyblue?logo=git)
 ![](https://img.shields.io/badge/GitHub-green?logo=github)
 ![](https://img.shields.io/badge/GitLab-blue?logo=gitLab)
+![](https://img.shields.io/badge/Heroku-orange?logo=heroku)
 
 ### My Proud Works 
 
