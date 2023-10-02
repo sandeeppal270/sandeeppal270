@@ -22,6 +22,7 @@
 
 ![](https://img.shields.io/badge/Git-skyblue?logo=git)
 ![](https://img.shields.io/badge/GitHub-green?logo=github)
+![](https://img.shields.io/badge/GitLab-blue?logo=gitLab)
 
 ### My Proud Works 
 
